@@ -1,0 +1,23 @@
+{
+  "name": "meta-frontend---react-basics",
+  "version": "1.0.0",
+  "description": "",
+  "source": "../index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "react": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.0",
+    "react": "^19.1.0"
+  },
+  "dependencies": {
+    "react-dom": "^19.1.0"
+  }
+}
